@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(wall.jpg);
+    height: 100%;
+    width:  100%;
+    background-repeat:no-repeat;
+    background-position: left;
+    
+}
+.main{
+    border: 4px solid black; 
+    /* background-color: black; */
+    height: 9 1vh;
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+}
+/* input{
+    height: 5vh;
+    width: 15vw;
+} */
+.register{
+   /* border: 2px solid white; */
+    /* height: 30vh; */
+    /* width: 25vw; */
+    text-align: center;
+}
+label{
+    color: black;
+}
+#h2{
+    color: black;
+    font-size: 3vw;
+    text-align: center;
+
+}
+ div.main{
+    width: 400px;
+    margin:100px 530px 0px 530px;
+} 
+h2{
+    
+    padding: 20px;
+} 
